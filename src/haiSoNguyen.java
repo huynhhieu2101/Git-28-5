@@ -22,5 +22,7 @@ public class haiSoNguyen {
         } else {
             System.out.println ("Không chia hết cho 0.");
         }
+
+        System.out.println("Anh Thái nè Hiếu, nhớ merge giúp anh");
     }
 }
