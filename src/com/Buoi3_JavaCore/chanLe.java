@@ -13,6 +13,7 @@ public class chanLe {
             System.out.println ("Là số chẵn : " + soNguyen);
         } else {
             System.out.println ("Là số lẻ : " + soNguyen);
+            System.out.println ("Hello");
         }
     }
 }
